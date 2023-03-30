@@ -5,4 +5,4 @@ Project: [Incorporate a Python library for ISMAGs isomorphism calculations](http
 
 Proposal: [PDF](https://github.com/jnash10/NetworkX-GSoC-23/blob/main/gsoc_proposal_agamdeep.pdf)
 
-Blog will be maintained on my [website](agamdeep.net)
+Blog will be maintained on my [website](www.agamdeep.net)
